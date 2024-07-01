@@ -34,22 +34,19 @@ Este projeto é uma implementação do clássico jogo Pong, escrito em C. Adapta
 
 ## Como Jogar
 
-1. Utilize o processador do ICMC:
-   [Processador ICMC](https://github.com/simoesusp/Processador-ICMC)
-
-2. Clone o repositório:
+1. Clone o repositório:
     ```sh
-    git clone https://github.com/usuario/pong-game.git
+    git clone https://github.com/VictorSilBot/PONG
     ```
-3. Compile o código com seu compilador C preferido.
-4. Execute o binário gerado.
-5. No menu principal, selecione uma das opções:
+2. Execute o [Processador ICMC](https://github.com/simoesusp/Processador-ICMC)
+
+3. No menu principal, selecione uma das opções:
    - `1 - SINGLE PLAYER`
    - `2 - MULTIPLAYER`
    - `3 - CREDITOS`
    - `4 - QUIT`
 
-6. Jogue e divirta-se! O primeiro jogador a marcar 3 gols vence a partida.
+4. Jogue e divirta-se! O primeiro jogador a marcar 3 gols vence a partida.
 
 ## Estrutura do Código
 
