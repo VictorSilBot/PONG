@@ -35,7 +35,7 @@ Este projeto é uma implementação do clássico jogo Pong, escrito em C. Adapta
 ## Como Jogar
 
 1. Utilize o processador do ICMC:
-   `https://github.com/simoesusp/Processador-ICMC`
+   [Processador ICMC](https://github.com/simoesusp/Processador-ICMC)
 
 2. Clone o repositório:
     ```sh
