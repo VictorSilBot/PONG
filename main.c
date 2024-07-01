@@ -78,7 +78,7 @@ int main()
     modx = -1;
     mody = -1;
     mod_CPU = -1;
-
+	
 	prints("  _______  _______  ___    __  _______ \n");
     prints(" |   _   ||       ||   |  |  ||       |\n");
     prints(" |  | |  ||   _   ||    | |  ||   ____|\n");
@@ -177,9 +177,9 @@ int main()
         if(id == 3){
             prints("\n");
             prints("           Autores do Jogo:\n\n");
-            prints("         Victor Silva Botelho\n\n              (15645421)\n\n");
-            prints("      Matheus D'Afonseca e Silva\n\n              (15640447)\n\n");
-            prints("    Joao Victor Andrade dos Santos\n\n              (15522511)\n");
+            prints("         Victor Silva Botelho\n\n");
+            prints("      Matheus D'Afonseca e Silva\n\n");
+            prints("    Joao Victor Andrade dos Santos\n\n");
         }
         if(id == 4){
             prints("\n\n          Obrigado por jogar!");
@@ -280,7 +280,7 @@ void desenhar_placar(){
 
 }
 
-void loop_do_jogo() /////////////////////////////////////////////////////////////////////////////////////////////////////////////
+void loop_do_jogo() // Loop principal
 {
     sfill(0);
 
