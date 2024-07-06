@@ -4,6 +4,11 @@
 
 Este projeto é uma implementação do clássico jogo Pong, escrito em C. Adaptado para um compilador específico, o jogo oferece modos de jogo single player e multiplayer, permitindo que você jogue contra a CPU ou outro jogador. O objetivo é marcar três gols antes do adversário para vencer a partida.
 
+## Vídeo no Youtube:
+
+[![Pong Game in Assembly](https://img.youtube.com/vi/M4VOIOSv8W0/0.jpg)](https://www.youtube.com/watch?v=M4VOIOSv8W0)
+
+
 ## Funcionalidades
 
 - **Modos de Jogo:**
